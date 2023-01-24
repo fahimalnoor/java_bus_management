@@ -1,2 +1,2 @@
 # java_bus_management
-Bus Management System
+Bus Management System using Java Standard Edition
